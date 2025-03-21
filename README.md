@@ -10,7 +10,7 @@ SmartHat is an **Arduino-based smart helmet** designed to enhance **motorcycle r
 - **Speed Monitoring**: Warns the rider if speed exceeds a predefined limit.
 - **Bluetooth Communication** (Future Update): Enables rider-to-rider communication.
 
-## 🛠 Components Used
+## Components Used
 | Component | Purpose |
 |-----------|---------|
 | Arduino UNO R3 | Main microcontroller |
