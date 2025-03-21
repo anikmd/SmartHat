@@ -1,9 +1,9 @@
 # SmartHat: A Arduino-Based Smart Helmet for Bike Rider’s Security
 
-## 🚀 Project Overview
+## Project Overview
 SmartHat is an **Arduino-based smart helmet** designed to enhance **motorcycle rider safety** by detecting accidents and notifying emergency contacts with real-time GPS location. The system integrates **GSM, GPS, and knock sensors** to reduce response time in case of a crash.
 
-## 🔥 Features
+## Features
 - **Accident Detection**: Knock and vibration sensors detect crashes.
 - **Real-time Location Tracking**: GPS module provides the rider's coordinates.
 - **Emergency Alert System**: Sends SMS alerts via GSM module to emergency contacts.
@@ -22,10 +22,10 @@ SmartHat is an **Arduino-based smart helmet** designed to enhance **motorcycle r
 | 35MM Mini Speaker | Audio alerts |
 | HC-06 Bluetooth Module | Future enhancement |
 
-## 📷 System Architecture
+## System Architecture
 ![System Architecture](docs/diagrams/system_architecture.png)
 
-## ⚡ Installation & Setup
+## Installation & Setup
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/yourusername/SmartHat.git
@@ -50,7 +50,7 @@ SmartHat is an **Arduino-based smart helmet** designed to enhance **motorcycle r
   3. Send an alert SMS via **GSM module**.
 - The system can also warn about **high speed** and provide real-time monitoring.
 
-## 📊 Test Results
+## Test Results
 | Module | Testing Success Rate |
 |--------|---------------------|
 | GPS Module | 100% (Outdoor) |
@@ -62,13 +62,13 @@ SmartHat is an **Arduino-based smart helmet** designed to enhance **motorcycle r
 - **Helmet Wear Detection**: Ensures the helmet is worn before allowing ignition.
 - **AI-based Crash Analysis**: Uses machine learning to analyze accident patterns.
 
-## 🏆 Credits
+## Credits
 Developed by **Md. Anik** & **Nishat Tasnim Ali** as part of a Computer Science & Engineering project at **City University, Bangladesh**.
 
-## 📬 Contact
+## Contact
 For any inquiries, please email **mdanikk630@gmail.com** or open an [issue](https://github.com/anikmd) on GitHub.
 
 ---
-🚀 _Stay safe, ride smart!_
+_Stay safe, ride smart!_
 
 
