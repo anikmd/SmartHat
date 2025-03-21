@@ -72,7 +72,7 @@ We welcome contributions! Please check out [CONTRIBUTING.md](CONTRIBUTING.md) fo
 Developed by **Md. Anik** & **Nishat Tasnim Ali** as part of a Computer Science & Engineering project at **City University, Bangladesh**.
 
 ## 📬 Contact
-For any inquiries, please email **your.email@example.com** or open an [issue](https://github.com/yourusername/SmartHat/issues) on GitHub.
+For any inquiries, please email **mdanikk630@gmail.com** or open an [issue](https://github.com/anikmd) on GitHub.
 
 ---
 🚀 _Stay safe, ride smart!_
