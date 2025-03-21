@@ -62,12 +62,6 @@ SmartHat is an **Arduino-based smart helmet** designed to enhance **motorcycle r
 - **Helmet Wear Detection**: Ensures the helmet is worn before allowing ignition.
 - **AI-based Crash Analysis**: Uses machine learning to analyze accident patterns.
 
-## 📜 License
-This project is open-source and licensed under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-We welcome contributions! Please check out [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
 ## 🏆 Credits
 Developed by **Md. Anik** & **Nishat Tasnim Ali** as part of a Computer Science & Engineering project at **City University, Bangladesh**.
 
