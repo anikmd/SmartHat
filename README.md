@@ -37,7 +37,7 @@ SmartHat is an **Arduino-based smart helmet** designed to enhance **motorcycle r
    - Select the correct board and COM port.
    - Upload the code.
 3. **Hardware Setup:**
-   - Connect **GPS, GSM, and Knock Sensor** as per the **circuit diagram** in `docs/diagrams/circuit_diagram.png`.
+   - Connect **GPS, GSM, and Knock Sensor** as per the **circuit diagram** in doc/diagrams/CircuitDiagram.PNG.
 4. **Power On & Test:**
    - Ensure the helmet receives **5V power**.
    - Test GPS and GSM connectivity.
