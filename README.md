@@ -28,7 +28,7 @@ SmartHat is an **Arduino-based smart helmet** designed to enhance **motorcycle r
 ## Installation & Setup
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/SmartHat.git
+   git clone https://github.com/anikmd/SmartHat.git
    cd SmartHat
    ```
 2. **Upload Firmware to Arduino:**
