@@ -42,7 +42,7 @@ SmartHat is an **Arduino-based smart helmet** designed to enhance **motorcycle r
    - Ensure the helmet receives **5V power**.
    - Test GPS and GSM connectivity.
 
-## 🎮 Usage Instructions
+## Usage Instructions
 - Wear the **SmartHat helmet** while riding.
 - In case of a crash, the system will:
   1. Detect the impact.
@@ -57,7 +57,7 @@ SmartHat is an **Arduino-based smart helmet** designed to enhance **motorcycle r
 | GSM Module | 83%-100% |
 | Knock Sensor | 75%-100% |
 
-## 🚀 Future Improvements
+## Future Improvements
 - **Rider Condition Monitoring**: Detects rider’s movement status post-crash.
 - **Helmet Wear Detection**: Ensures the helmet is worn before allowing ignition.
 - **AI-based Crash Analysis**: Uses machine learning to analyze accident patterns.
