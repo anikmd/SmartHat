@@ -2,6 +2,7 @@
 
 ## Project Overview
 SmartHat is an **Arduino-based smart helmet** designed to enhance **motorcycle rider safety** by detecting accidents and notifying emergency contacts with real-time GPS location. The system integrates **GSM, GPS, and knock sensors** to reduce response time in case of a crash.
+![Project Demo](doc/diagrams/SystemArchitectureDiagram.PNG)
 
 ## Features
 - **Accident Detection**: Knock and vibration sensors detect crashes.
