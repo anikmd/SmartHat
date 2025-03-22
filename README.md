@@ -23,7 +23,7 @@ SmartHat is an **Arduino-based smart helmet** designed to enhance **motorcycle r
 | HC-06 Bluetooth Module | Future enhancement |
 
 ## System Architecture
-![System Architecture](docs/diagrams/system_architecture.png)
+![System Architecture](docs/diagrams/SystemArchitectureDiagram.png)
 
 ## Installation & Setup
 1. **Clone the Repository:**
